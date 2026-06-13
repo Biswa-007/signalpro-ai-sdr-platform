@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time AI-Powered Software Defined Radio (SDR) Simulation Platform
 
 A full-stack engineering system that simulates communication signals in real-time, applies DSP operations, visualizes data across multiple domains, and uses AI to classify signal conditions.
@@ -221,3 +222,4 @@ The Nyquist theorem states that the sampling rate must be ≥ 2× the highest fr
 5. **Multi-User Collaboration** — WebSocket broadcasting to multiple dashboards for shared spectrum monitoring.
 
 6. **Signal Recording & Playback** — Record raw IQ samples for offline analysis and replay.
+
